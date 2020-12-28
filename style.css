@@ -1,0 +1,16 @@
+h2 {
+    text-transform: uppercase;
+
+}
+
+#mb1 {
+    text-align: right;
+}
+
+.form-input, .form-control {
+    width: 60%;
+}
+
+.form-control {
+    display: inline;
+}
